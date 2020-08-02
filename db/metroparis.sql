@@ -2229,3 +2229,4 @@ INSERT INTO `linea` (`id_linea`, `nome`, `velocita`, `intervallo`, `colore`) VAL
 /*!40000 ALTER TABLE `linea` ENABLE KEYS */;
 /*!40014 SET FOREIGN_KEY_CHECKS=1 */;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+metroparisconnessionefermata
